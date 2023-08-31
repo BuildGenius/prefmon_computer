@@ -1,0 +1,7 @@
+
+CPU check up : phoomin's server
+cpu gen: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz(Intel64 Family 6 Model 140 Stepping 1)
+cpu work load average percentage(%) : 10%
+CPU check up : phoomin's server
+cpu gen: 11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz(Intel64 Family 6 Model 140 Stepping 1)
+cpu work load average percentage(%) : 10%

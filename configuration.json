@@ -1,0 +1,24 @@
+{
+    "computer_name": "phoomin",
+    "criteria_disk_space_percent": 20,
+    "criteria_cpu_usage_average_percent": 90,
+    "criteria_ram_usage_average_percent": 90,
+    "lineconnection": {
+        "dev": "http://localhost/line.ufundportal.com/lineNotify/lineNotify.bot.php",
+        "Production": "https:\/\/line.ufundportal.com\/lineNotify\/lineNotify.bot.php"
+    },
+    "sqlConnection": {
+        "dev": {
+            "host": "43.254.133.123",
+            "username": "sa",
+            "password": "Com@7ktwoadmin###",
+            "dbname": "HPCOM7"
+        },
+        "Production": {
+            "host": "43.254.133.123",
+            "username": "phoomin.sr",
+            "password": "4fC9870_",
+            "dbname": "Common"
+        }
+    }
+}

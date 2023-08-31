@@ -1,0 +1,2 @@
+11 GenuineIntel11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHzIntel64 Family 6 Model 140 Stepping 1 37 2023-08-29 16:55:00
+11 GenuineIntel11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHzIntel64 Family 6 Model 140 Stepping 1 19 2023-08-29 17:00:00

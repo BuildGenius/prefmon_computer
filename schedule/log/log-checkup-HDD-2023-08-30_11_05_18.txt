@@ -1,0 +1,30 @@
+DRIVE C: free space: 54.96%
+free: 255 GB 
+total: 464 GB
+
+
+DRIVE D: free space: 70.35%
+free: 159 GB 
+total: 226 GB
+
+
+DRIVE E: free space: 23.01%
+free: 55 GB 
+total: 239 GB
+
+
+DRIVE C: free space: 54.96%
+free: 255 GB 
+total: 464 GB
+
+
+DRIVE D: free space: 70.35%
+free: 159 GB 
+total: 226 GB
+
+
+DRIVE E: free space: 23.01%
+free: 55 GB 
+total: 239 GB
+
+

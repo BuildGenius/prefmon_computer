@@ -1,0 +1,19 @@
+{
+    "name": "phoomin/performance_computer",
+    "autoload": {
+        "psr-4": {
+            "Phoomin\\PerformanceComputer\\": "src/",
+            "App\\Http\\Controller\\": "controller/",
+            "App\\Models\\": "models/"
+        }
+    },
+    "authors": [
+        {
+            "name": "phoomin srimahaprom",
+            "email": "phoomin.sr@gmail.com"
+        }
+    ],
+    "require": {
+        "peppeocchi/php-cron-scheduler": "^4.0"
+    }
+}
